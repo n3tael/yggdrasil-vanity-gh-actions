@@ -26,3 +26,4 @@ cargo run --release -- -r "" -r "^([0-9a-f]*:){2}:" -r "^([0-9a-f]*:){2}[0-9a-f]
 ## Credits
 - [nano-vanity](https://github.com/PlasmaPower/nano-vanity) for ed25519 OpenCL kernel
 - [opencl_brute](https://github.com/bkerler/opencl_brute) for sha512 OpenCL kernel
+
